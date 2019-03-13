@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[2],{139:function(n,e,t){"use strict";t.r(e),t.d(e,"default",function(){return p});var r=t(7),o=t.n(r),u=t(0),i=t.n(u),p=function(n){function e(){return n.apply(this,arguments)||this}return o()(e,n),e.prototype.render=function(){return i.a.createElement("h1",null,"Home is where the heart is")},e}(u.Component)}}]);
+//# sourceMappingURL=component---src-pages-home-js-01ab006d98463d636d29.js.map

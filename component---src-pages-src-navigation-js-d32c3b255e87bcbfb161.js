@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[4],{142:function(n,t,e){"use strict";e.r(t),e.d(t,"default",function(){return p});var o=e(7),r=e.n(o),u=e(0),i=e.n(u),p=function(n){function t(){return n.apply(this,arguments)||this}return r()(t,n),t.prototype.render=function(){return i.a.createElement("h1",null,"Navigation Component")},t}(u.Component)}}]);
+//# sourceMappingURL=component---src-pages-src-navigation-js-d32c3b255e87bcbfb161.js.map
